@@ -74,7 +74,7 @@ vertical-align: middle;
 margin-right: -4px;
 border-radius: 10px;
 cursor: pointer;
-}
+} 
 .blink-me {
 color: #E0B612;
 }
@@ -105,6 +105,8 @@ color: #E0B612;
 }
 .form-control{
     color: wheat;
+    font-size: 20px;
+    text-align: center;
 }
 
 
@@ -113,4 +115,18 @@ color: #E0B612;
 }
 #match{
     display: none;
+}
+.bt {
+    width: 20%;
+background: #425062;
+color: #fff;
+padding: 20px 0;
+margin: 5px;
+display: inline-block;
+font-size: 25px;
+text-align: center;
+vertical-align: middle;
+margin-right: -4px;
+border-radius: 10px;
+cursor: pointer;
 }
